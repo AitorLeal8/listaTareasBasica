@@ -1,2 +1,8 @@
-# listaTareasBasica
-Proyecto de lista de tareas basica
+# Lista de tareas básica
+
+
+
+## Tecnologías:
+- HTML
+- CSS
+- JavaScript
